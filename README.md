@@ -1,5 +1,13 @@
 # GFG MERN Stack Full Program — Landing Page
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square) 
+![GitHub stars](https://img.shields.io/github/stars/vikasthakurr/full-stack-dev-geeksforgeeks-page?style=flat-square) 
+![GitHub forks](https://img.shields.io/github/forks/vikasthakurr/full-stack-dev-geeksforgeeks-page?style=flat-square)
+
+
 A production-ready marketing landing page for the **GeeksforGeeks MERN Stack Full Program**, built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
 
 ---
